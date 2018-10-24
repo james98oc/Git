@@ -4,6 +4,10 @@ h1 {
 
 
 p {
-    color: red;
     text-align: center;
+}
+
+h2 {
+    color: maroon;
+    margin-left: 80px;
 }
